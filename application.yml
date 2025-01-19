@@ -1,7 +1,7 @@
 # spring:
 #  application:
 main:
-  header:
+  valuehai:
     info: 3600
 #   name: My-Central-Config-Server
 # Eureka server client configration
