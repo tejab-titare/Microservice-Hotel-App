@@ -1,6 +1,6 @@
 spring:
  application:
-  name: My-Central-Config-Server-Dev-Env
+  name: My-Config-Server-Dev-Env-RATING_SERVICE
 # Eureka server client configration
 eureka:
   instance:
