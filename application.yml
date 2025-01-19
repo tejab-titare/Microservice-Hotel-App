@@ -2,7 +2,7 @@
 #  application:
 main:
   valuehai:
-    info: 4400
+    info: 5000
 #   name: My-Central-Config-Server
 # Eureka server client configration
 eureka:
