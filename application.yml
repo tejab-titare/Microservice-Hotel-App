@@ -1,6 +1,6 @@
 spring:
  application:
-  name: My-Central-Cpnfig-Server
+  name: My-Central-Config-Server
 # Eureka server client configration
 eureka:
   instance:
