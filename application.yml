@@ -1,4 +1,6 @@
-
+spring:
+ application:
+  name: My-Central-Cpnfig-Server
 # Eureka server client configration
 eureka:
   instance:
